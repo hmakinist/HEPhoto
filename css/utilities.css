@@ -177,6 +177,7 @@
     }
     .image_slider p.info{
         display: inline-block;
+        font-size: 12px;
     } 
 }
 @media screen and (max-height: 480px) {
